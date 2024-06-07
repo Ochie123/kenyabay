@@ -1,0 +1,13 @@
+asgiref==3.8.1
+Django==5.0.6
+django-appconf==1.0.6
+-e git+https://github.com/divio/django-classy-tags.git@4c94d0354eca1600ad2ead9c3c151ad57af398a4#egg=django_classy_tags
+django-crispy-forms==2.1
+django-imagekit==5.0.0
+django-json-ld==0.0.5
+django-sekizai==1.0.0
+pilkit==3.0
+pillow==10.3.0
+psycopg2==2.9.9
+six==1.16.0
+sqlparse==0.5.0
